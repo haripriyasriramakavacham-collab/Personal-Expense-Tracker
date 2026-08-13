@@ -30,13 +30,13 @@ Jupyter Notebook -- Development and testing
 3. README.md - Project documentation.
 4. .gitignore - Git configuration.
 # How to Run:
-# 1. Install Python
+## 1. Install Python
 Make sure Python 3.x is installed on your computer.
-# 2. Clone the repository
+## 2. Clone the repository
 git clone <your-repository-url>
-# 3. Open the project folder
+## 3. Open the project folder
 cd Personal-Expense-Tracker
-# 4. Run the application
+## 4. Run the application
 python personal_expense_tracker.py
 
 The Personal Expense Tracker GUI will open.
