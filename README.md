@@ -1,5 +1,9 @@
 # Personal Expense Tracker:
 A desktop GUI application built with Python and Tkinter to track personal income and expenses.
+# Project Status:
+Completed and working
+# Version:
+v1.0.0 - Initial stable relese
 # Application Preview:
 ![Personal Expense Tracker](expense_tracker_demo.png)
 ## Demo
