@@ -53,7 +53,7 @@ Jupyter Notebook -- Development and testing
 ## 1. Install Python
 Make sure Python 3.x is installed on your computer.
 ## 2. Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/haripriyasriramakavacham-collab/Personal-Expense-Tracker.git
 ## 3. Open the project folder
 cd Personal-Expense-Tracker
 ## 4. Run the application
