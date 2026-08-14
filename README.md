@@ -21,7 +21,17 @@ Transactions are stored locally using CSV files, making the application lightwei
 8. View category wise spending summaries.
 9. Store transaction data locally using CSV files.
 10. Date validation for transactions.
-11. User-friendly Tkinter GUI.
+11. User-friendly Tkinter GUI
+# Feature Enhancements:
+Add interactive charts and graphs for expense analysis.
+
+Generate monthly and yearly financial reports.
+
+Add user login and authentication.
+
+Export financial reports to PDF or Excel.
+
+Develop a mobile-friendly version.
 # Tech Stack:
 Python -- Application development
 
